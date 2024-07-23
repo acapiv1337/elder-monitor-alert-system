@@ -10,8 +10,8 @@ Before running the script, you need to install the required Python packages. You
 
 1. **Clone the repository** (if applicable)
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/acapiv1337/elder-monitor-alert-system.git)
+   cd elder-monitor-alert-system
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
