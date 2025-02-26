@@ -1,6 +1,6 @@
 # Elderly Monitoring Alert System
 
-This project implements an elderly monitoring alert system using object detection technology to detect various activities.
+This project implements an elderly monitoring alert system utilizing object detection technology to recognize various activities, including "Bending," "Falling," "Seizure," "Sitting," "Sleeping," and "Standing." The model is developed using YOLOv2 from Darkflow library. This project is presented for the Object Detection & Localization Fundamentals class by AI Nusantara under the guidance of Ugenteraan Manogaran.
 
 ## Requirements
 
